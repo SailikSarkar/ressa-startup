@@ -9,7 +9,7 @@ export default function Work1() {
       <div className="h-56  sm:h-72 p-6  lg:absolute lg:left-0  lg:w-[600px]">
         
         <img
-          className=" object-cover  sm:mt-20 rounded-2xl sm:ml-[120px]"
+          className=" object-cover  sm:mt-20 rounded-2xl sm:ml-[80px]"
           src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
           alt="Support team"
         />
